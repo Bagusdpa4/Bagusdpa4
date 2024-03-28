@@ -24,6 +24,7 @@ Hey! 👋 I'm **Bagus Dwi Putra Adiyono**, a 21-year-old **front-end developer**
 
 ## 📊 GitHub Stats:
 <div id="header" align="center">
+	
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bagusdpa4&layout=compact&langs_count=80&theme=radical)
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bagusdpa4&show_icons=true&theme=radical)
