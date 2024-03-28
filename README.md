@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=2500&random=false&width=435&lines=Hello+There+!!!...+%F0%9F%91%8B;Welcome+To+My+Repo+%F0%9F%A5%87" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=2000&random=false&width=435&lines=Hello+There+!!!...+%F0%9F%91%8B;Welcome+To+My+Repo+!!!%F0%9F%A5%87" alt="Typing SVG" /></a>
 
 Hello, I'm Dewangga Nanda Arjuna, a student currently studying System Information at Universitas Pembangunan Nasional "Veteran" Jawa Timur. I'm currently diving into the world of back-end development, learning languages like JavaScript and SQL. Feel free to ask me anything about my journey in software development!
 
