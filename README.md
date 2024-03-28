@@ -14,11 +14,15 @@
 
 Hey! 👋 I'm **Bagus Dwi Putra Adiyono**, a 21-year-old **front-end developer** with a knack for crafting efficient and robust software solutions. 💻 🌐 Passionate about **AI** and **ML**, I'm on a mission to leverage technology for positive impact. My goal is to create cutting-edge solutions and contribute to the evolution of tech. 🛠️ Whether working independently or as part of a team, I thrive on tackling complex challenges and finding creative solutions. Let's collaborate and shape the future together.
 
+<br/>
+
 ## 🌐 Social Media Links:
 
+<a href="https://www.linkedin.com/in/bagusdwiputraadiyono/"><img align="left" alt="LinkedIn" width="36px" src="https://user-images.githubusercontent.com/99660553/225256493-e9b67f2a-b6a5-4b69-a3a5-ec9e2699d713.png" /></a>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bagusdwiputraa) 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bagusdwiputraadiyono/)
 <a href="sugab.dwi88@gmail.com"><img align="left" alt="Gmail" width="36px" src="https://user-images.githubusercontent.com/99660553/225258851-2d990bdd-544c-42d7-b638-7b74e5736e3b.png" /></a>
+
+<br/>
 
 ## 💻 Tech Stack Used:
 
@@ -31,6 +35,8 @@ Hey! 👋 I'm **Bagus Dwi Putra Adiyono**, a 21-year-old **front-end developer**
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+<br/>
 
 ## 📊 GitHub Stats:
 
