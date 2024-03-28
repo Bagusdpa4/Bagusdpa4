@@ -1,6 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=2000&random=false&width=435&lines=Hello+There+!!!...+%F0%9F%91%8B;Welcome+To+My+Repo+!!!%F0%9F%A5%87" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&random=false&width=435&lines=Hello+There...!!!+" alt="Typing SVG" /></a>
 
-### Thanks for Visiting my GitHub Profile!
+### Welcome to my GitHub Profile!
 
 ---
 <p align="center">
@@ -17,7 +17,7 @@ Hey! 👋 I'm **Bagus Dwi Putra Adiyono**, a 21-year-old **front-end developer**
 
 ## 🌐 Social Media Links:
 
-<a href="https://itsvg.in" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
+<a href="https://github.com/Bagusdpa4" target="_blank"><img alt="" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=yellow&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.linkedin.com/in/bagusdwiputraadiyono/" target="_blank"><img alt="" src="https://img.shields.io/badge/LinkedIn-000?logo=linkedin&logoColor=0A66C2&style=for-the-badge" style="vertical-align:center" /></a>
 <a href="https://www.instagram.com/bagusdwiputraa" target="_blank"><img alt="" src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=Instagram&logoColor=E4405F" style="vertical-align:center" /></a></p>
 
