@@ -1,7 +1,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=2000&random=false&width=435&lines=Hello+There+!!!...+%F0%9F%91%8B;Welcome+To+My+Repo+!!!%F0%9F%A5%87" alt="Typing SVG" /></a>
 
-<br/>
-
 # 💫 About Me:
 
 Hey! 👋 I'm **Bagus Dwi Putra Adiyono**, a 21-year-old **front-end developer** with a knack for crafting efficient and robust software solutions. 💻 🌐 Passionate about **Programming Development**, I'm on a mission to leverage technology for positive impact. My goal is to create cutting-edge solutions and contribute to the evolution of tech. 🛠️ Whether working independently or as part of a team, I thrive on tackling complex challenges and finding creative solutions. Let's collaborate and shape the future together.
