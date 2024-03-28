@@ -5,11 +5,11 @@ Hello, I'm Dewangga Nanda Arjuna, a student currently studying System Informatio
 # About Me:
 🔭 I’m currently working on Improving my skills in JavaScript and SQL as a Back-End JavaScript Student at Binar Academy.<br>🌱 I’m currently learning JavaScript and SQL for back-end development.<br>⚡ Fun fact I enjoy solving coding challenges and learning new programming languages.
 
-### 🌐 Social Media Links
+## 🌐 Social Media Links:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/bagusdwiputraa) 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=normal&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bagusdwiputraadiyono/)
 
-### 💻 Tech Stack Used
+## 💻 Tech Stack Used:
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
