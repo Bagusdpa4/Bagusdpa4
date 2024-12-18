@@ -37,6 +37,6 @@ Hey! 👋 I'm **Bagus Dwi Putra Adiyono**, a 21-year-old **front-end developer**
 	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bagusdpa4&show_icons=true&theme=radical)
 	
-![GitHub Streak](https://streak-stats.demolab.com?user=Bagusdpa4&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bagusdpa4&theme=radical)
 	</div>
 <a/>
