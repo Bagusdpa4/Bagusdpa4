@@ -12,7 +12,7 @@
 
 # 💫 About Me:
 
-Hey! 👋 I'm **Bagus Dwi Putra Adiyono**, a 21-year-old **Junior Web Programming** 
+Hey! 👋 I'm **Bagus Dwi Putra Adiyono**, a 22-year-old **Junior Web Programming** 
 - 🎓 IT Student.  
 - 💻 Passionate about Tech & Programming with **JavaScript**.  
 - 🖼️ Focused on **Front-End Development**.  
